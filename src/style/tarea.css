@@ -1,0 +1,35 @@
+.contenedor-tarea{
+    margin-top: 40px;
+    margin-left: 60px;
+    background: #e2e2e2;
+    width: 330px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 7px #707070;
+}
+.negrita{
+    font-weight: 600;
+}
+
+.no-tareas{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.equis{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background: red;
+    text-align: -webkit-center;
+    line-height: 1;
+    color: white;
+    box-shadow: 0 2px 5px black;
+    margin-top: -135px;
+    margin-bottom: 135px;
+    margin-left: 375px;
+    font-weight: 600;
+}
+.equis:hover{
+    cursor: pointer;
+}

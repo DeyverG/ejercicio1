@@ -1,0 +1,55 @@
+.home{
+    background-color: #00c2ff;
+    min-height: 85vh;
+}
+
+.contBruja{
+    align-self: center;
+}
+.bruja{
+    height: 320px;
+    filter: drop-shadow(0 3px 3px #000000);
+}
+
+.bienvenido{
+    color: white;
+    font-size: 100px;
+    font-weight: 600;
+    width: fit-content;
+    margin-left: 28vh;
+    margin-bottom: 0px;
+}
+
+.texto{
+    font-size: 60px;
+    color: white;
+    margin-left: 28vh;
+}
+
+.espaciado{
+    margin-top: 80px;
+}
+.botonColor{
+    background-color: #6cd1ab;
+    color: white;
+    width: 200px;
+    height: 45px;
+    font-size: 2rem;
+    line-height: 0;
+    font-weight: bold;
+    border-color: #6cd1ab;
+    box-shadow: 2px 2px 7px black;
+    margin-left: 28vh;
+}
+.marca{
+    font-size: 40px;
+    color: white;
+    width: fit-content;
+    display: inline;
+    margin: 10px;
+    vertical-align: text-top;
+}
+.logo-home{
+    height: 70px;
+    margin-left: 45vh;
+}

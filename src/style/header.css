@@ -1,0 +1,33 @@
+.fondo{
+    background: #598d8b;
+    padding: 12px 0;
+    box-shadow: 0px 2px 12px black;
+    position: relative;
+    min-height: 15vh;
+}
+
+.logo{
+    height: 70px;
+    margin-left: 30px;
+}
+
+.titulo{
+    font-size: 40px;
+    color: white;
+    width: fit-content;
+    display: inline;
+    font-weight: 600;
+    margin: 0 auto 0 25px;
+}
+
+
+.item{
+    display: flex;
+    align-items: center;
+}
+.bruja-bar{
+    height: 70px;
+    margin-right: 20px;
+    display: inline;
+    filter: drop-shadow(0 3px 3px #000000);
+}
